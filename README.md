@@ -1,2 +1,2 @@
 # CodeFundo
-predict, prevent, or manage the impact of natural disasters
+Prediction, Prevention And Management of Natural Disasters
